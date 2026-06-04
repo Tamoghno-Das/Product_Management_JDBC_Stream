@@ -104,9 +104,8 @@ Database and application errors are wrapped in `ProductException` for consistent
 - Provide export options (CSV/Excel) for reporting.
 
 ## Author
-- Name: <YOUR_NAME>
-- Role: <YOUR_ROLE>
-- Contact: <YOUR_EMAIL>
+- Name: TAMOGHNO DAS
+- Contact: tammoghnowork05@gmail.com
 
 ## Notes
 - Ensure the Oracle JDBC driver resolves properly via Maven.
